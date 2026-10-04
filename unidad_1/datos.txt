@@ -1,0 +1,4 @@
+Hola, este es mi archivo de texto.
+Estoy realizando la Actividad 2 de PHP.
+Esta es la tercera línea del archivo.
+PHP permite leer archivos de texto.
